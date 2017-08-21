@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang=en>
+<meta charset=utf-8>
+<link rel="canonical" href="<<CANONICAL_TO>>">
+<meta http-equiv="refresh" content="0; url=<<CANONICAL_TO>>">
+<meta name="robots" content="noindex, follow">
+<title>Moved Permanently</title>
+<h1>Moved Permanently</h1>
+<a href="<<CANONICAL_TO>>">Click here if you are not redirected.</a>
+<script>location="<<CANONICAL_TO>>"</script>
+</html>
